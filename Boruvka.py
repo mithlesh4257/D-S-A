@@ -1,6 +1,6 @@
 # Boruvka's algorithm to find Minimum Spanning
 # Tree of a given connected, undirected and weighted graph
- 
+ #Author Mithlesh Yadava
 from collections import defaultdict
  
 #Class to represent a graph
